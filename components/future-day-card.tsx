@@ -7,7 +7,6 @@ interface FutureDayProps {
 
 export default function FutureDay({ city }: FutureDayProps) {
   const { data } = useFutureWeather(city);
-  console.log(data);
   const { location, forecast, current } = data || {};
 
   return (
