@@ -12,7 +12,7 @@ function App({ Component, pageProps }: AppProps) {
       <Head>
         <title>Beauty Forecast</title>
         <link rel="icon" type="image/x-icon" href={favico.src} />
-        <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests" />
+        <meta httpEquiv="Content-Security-Policy" content="upgrade-insecure-requests" />
       </Head>
       <div className={montserrat.className}>
         <main className="w-full overflow-hidden gif-background">

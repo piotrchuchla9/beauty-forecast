@@ -87,7 +87,7 @@ export default function MyLocationWeather() {
                   <div className="w-10 h-10">
                     <IconWind />
                   </div>
-                  <span className="ml-2">{current.wind_kph} km/h</span>
+                  <span className="ml-2 text-lg sm:text-2xl">{current.wind_kph} km/h</span>
                 </div>
                 <div className="flex items-center">
                   <div className="w-10 h-10">
