@@ -20,8 +20,3 @@ yarn dev
 # or
 pnpm dev
 ```
-
-# ENV
-
- - **WEATHER_API_KEY**:{key} - https://www.weatherapi.com/
- - **GEOLOCATION_API_KEY**: {key} - https://api.opencagedata.com
