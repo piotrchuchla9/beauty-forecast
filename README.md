@@ -7,6 +7,7 @@ Tech stack:
  - Next
  - ReactQuery
  - Tailwind
+ - Rest
 
 # DEPLOYMENT
 Find my App here: https://beauty-forecast.netlify.app/
